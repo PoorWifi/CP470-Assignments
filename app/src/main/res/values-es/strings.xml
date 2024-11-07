@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AndriodAssignment</string>
+    <string name="hello_message">"¡Hola Mundo! "</string>
+    <string name="ButtonText">"Soy un botón. "</string>
+    <string name="Login">Acceso</string>
+    <string name="Login_name">"Nombre de inicio de sesión "</string>
+    <string name="Password">"Contraseña "</string>
+    <string name="password_hint">"tu contraseña "</string>
+    <string name="Switch">"¿Qué hace esto? "</string>
+    <string name="Radio">"¡Botón de opción! "</string>
+    <string name="Checkbox">"¡Botón de casilla de verificación! "</string>
+    <string name="title_activity_list_items">"Actividad del elemento de lista "</string>
+    <string name="camera_description">cámara</string>
+    <string name="login_button">Acceso</string>
+    <string name="logout_button">"Cerrar sesión "</string>
+    <string name="home_button">"Hogar "</string>
+    <string name="item_list_button">"Lista de artículos "</string>
+    <string name="captured_image">"Imagen capturada "</string>
+    <string name="button_ok">"Sí "</string>
+    <string name="button_cancel">"Cancelar "</string>
+    <string name="button_dialog_message">"¿Está seguro? Esto lo enviará de regreso a la Actividad Principal. "</string>
+    <string name="button_dialog_title">¡Has hecho clic en un botón!</string>
+    <string name="start_chat_button">"Iniciar chat "</string>
+    <string name="send_button">enviar</string>
+    <string name="title_activity_test_toolbar">"Barra de herramientas de prueba "</string>
+    <string name="title_folders">Carpetas</string>
+    <string name="title_trash">Basura</string>
+    <string name="title_settings">Ajustes</string>
+    <string name="title_home">Hogar</string>
+    <string name="title_dashboard">Panel</string>
+    <string name="title_notifications">"Notificaciones "</string>
+    <string name="fab_description">"No sé "</string>
+    <string name="folder">Carpeta</string>
+    <string name="trash">Basura</string>
+    <string name="settings">"Configuración "</string>
+    <string name="about">"acerca de "</string>
+    <string name="testToolbar">"Barra de herramientas de prueba "</string>
+    <string name="dialog_title">"¿Quieres volver? "</string>
+    <string name="dialog_positive">"¡Sí! "</string>
+    <string name="dialog_negative">No</string>
+    <string name="custom_dialog_hint">"Nuevo mensaje "</string>
+</resources>
